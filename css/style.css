@@ -513,3 +513,10 @@ footer button {
 .add-cart-impressive:hover .arrow {
   transform: translateX(5px);
 }
+
+/* BENEFITS LIST */
+@media (max-width: 768px) {
+  .benefits li {
+    margin-left: 10px;
+  }
+}
